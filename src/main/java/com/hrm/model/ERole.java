@@ -1,0 +1,5 @@
+package com.hrm.model;
+
+public enum ERole {
+    HR_FLAG, LEADER_FLAG,EMPLOYEE_FLAG,COMTOR_FLAG,SUB_LEADER_FLAG, CUSTOMER_FLAG
+}
